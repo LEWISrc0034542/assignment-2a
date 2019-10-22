@@ -61,6 +61,7 @@ namespace assignment_2a
             }
             RT = R1 + R2 + R3;
             label1.Text = "RT =" + RT;
+            //comment
         }
 
         private void Label2_Click(object sender, EventArgs e)
